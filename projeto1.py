@@ -4,7 +4,7 @@ import zipfile
 from PyPDF2 import PdfReader
 import pandas as pd
 
-# URL direta do Anexo I
+# URL do Anexo I
 pdf_url = "https://www.gov.br/ans/pt-br/acesso-a-informacao/participacao-da-sociedade/atualizacao-do-rol-de-procedimentos/Anexo_I_Rol_2021RN_465.2021_RN627L.2024.pdf"
 
 # Criar diretório para os arquivos baixados
